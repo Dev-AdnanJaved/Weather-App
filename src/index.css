@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+/* custom scrollbar */
+.my-custom-scrollbar .swiper-scrollbar-drag {
+  background: #ffffff; /* handle color */
+  border-radius: 4px;
+}
+
+.my-custom-scrollbar2 .swiper-scrollbar-drag {
+  background: #ffffff; /* handle color */
+  border-radius: 4px;
+}
